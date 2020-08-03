@@ -1,11 +1,7 @@
 {
 	"applinks": {
 		"details": [{
-			"appIDs": ["6B563564C5.com.veevaz.POCDeepLinking"],
-			"components": [{
-				"/": "*",
-				"comment": "Matches any URL"
-			}]
+			"appIDs": ["6B563564C5.com.veevaz.POCDeepLinking"]
 		}]
 	}
 }
