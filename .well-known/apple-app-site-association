@@ -1,7 +1,7 @@
 {
 	"applinks": {
 		"details": [{
-			"appID": "6B563564C5.com.veevaz.Blox",
+			"appIDs": ["6B563564C5.com.veevaz.Blox"],
 			"components": [{
 				"/": "*"
 			}]
