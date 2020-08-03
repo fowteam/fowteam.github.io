@@ -3,8 +3,8 @@
 		"details": [{
 			"appIDs": ["6B563564C5.com.veevaz.POCDeepLinking"],
 			"components": [{
-				"/": "/buy/*",
-				"comment": "Matches any URL whose path starts with /buy/"
+				"/": "*",
+				"comment": "Matches any URL"
 			}]
 		}]
 	}
