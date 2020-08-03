@@ -2,7 +2,7 @@
 	"applinks": {
 		"details": [{
 			"appIDs": ["6B563564C5.com.veevaz.Blox"],
-			"paths": ["/settings", "product/*]
+			"paths": ["*"]
 		}]
 	}
 }
