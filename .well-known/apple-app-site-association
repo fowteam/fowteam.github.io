@@ -1,10 +1,18 @@
 {
-	"applinks": {
-		"details": [{
-			"appIDs": ["6B563564C5.com.veevaz.POCDeepLinking"],
-			"components": [{
-				"/": "*"
-			}]
-		}]
-	}
-}
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "6B563564C5.com.fow.Fow"
+        ],
+        "components": [
+          {
+            "/": "*"
+          },
+          {
+            "/": "/collections"
+          ]
+        }
+      ]
+    }
+  }
