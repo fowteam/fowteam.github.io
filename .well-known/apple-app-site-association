@@ -14,9 +14,11 @@
             "/": "/collections"
           },
           {
-            "/": "/collection/*",
-            "/": "/post/*"
+            "/": "/collection/*"
           },
+          {
+            "/": "/post/*"
+          }
         ]
       }
     ]
