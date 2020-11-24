@@ -215,10 +215,10 @@
 .home-page-one .our-blog .single-blog .text>a,
 .home-page-one .our-blog .single-blog:hover .text h5 a,
 .home-page-one .blog-details .tag-option ul li a:hover,
-.home-page-one .blog-details .comment-area .comment-section .comment button:hover {color: #0aebb3;}
+.home-page-one .blog-details .comment-area .comment-section .comment button:hover {color: #6a74ff;}
 .home-page-one footer .subscribe-form .input-wrapper input[type="text"]:focus,
 .home-page-one footer .subscribe-form .input-wrapper input[type="email"]:focus {
-  border-color:#1ac2ed;
+  border-color:#6a74ff;
 }
 /*---------Home two---------*/
 .home-page-two .scroll-top,
@@ -232,16 +232,16 @@
   background: linear-gradient( 11deg, rgb(0,0,0) 0%, rgb(0,0,0) 100%);
 }
 .home-page-two .theme-title-two:before,
-.home-page-two .testimonial-section .main-bg-wrapper .main-slider-wrapper {background: #6262E8;}
+.home-page-two .testimonial-section .main-bg-wrapper .main-slider-wrapper {background: #6a74ff;}
 .home-page-two .boost-your-phone .text ul li i,.home-page-two .contact-us-section .contact-address .call:hover,
 .home-page-two footer .bottom-footer ul.footer-menu li a:hover,
 .home-page-two .our-blog .single-blog .text>a,
 .home-page-two .our-blog .single-blog:hover .text h5 a,
 .home-page-two .blog-details .tag-option ul li a:hover,
-.home-page-two .blog-details .comment-area .comment-section .comment button:hover {color: #ff4e39;}
+.home-page-two .blog-details .comment-area .comment-section .comment button:hover {color: #6a74ff;}
 .home-page-two footer .subscribe-form .input-wrapper input[type="text"]:focus,
 .home-page-two footer .subscribe-form .input-wrapper input[type="email"]:focus {
-  border-color:#ff5541;
+  border-color:#6a74ff;
 }
 /*---------Home three---------*/
 .home-page-three .scroll-top,
