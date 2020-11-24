@@ -493,8 +493,8 @@
           box-shadow: 0px 4px 70px 0px rgba(86, 103, 146, 0.05);
 }
 .what-we-do .single-block:hover img {
-  -webkit-transform:scale(0.9);
-          transform:scale(0.9);
+  -webkit-transform:scale(1.0);
+          transform:scale(1.0);
 }
 /*-------------------- Boost Your Phone -----------------*/
 .boost-your-phone {margin: 90px 0 125px 0;}
@@ -605,6 +605,11 @@
   top:0;
   left:0;
   font-size: 20px;
+}
+
+.boost-your-phone .boster-image-wrapper:hover img {
+  -webkit-transform:scale(0.97);
+          transform:scale(0.97);
 }
 /*--------------------- Advance Feature ----------------*/
 .advance-feature {padding: 60px 0 200px 0;}
