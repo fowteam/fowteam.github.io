@@ -25,5 +25,10 @@
         ]
       }
     ]
-  }
+  },
+  "appclips": {
+    "apps": [
+      "6B563564C5.com.fow.Fow.Clip"
+    ]
+  }  
 }
